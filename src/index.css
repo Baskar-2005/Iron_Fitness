@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Oswald", sans-serif;
+  --font-sans: "Manrope", sans-serif;
+  --color-obsidian: #08090B;
+  --color-charcoal: #15171B;
+  --color-metallic: #C5C8CE;
+  --color-crimson: #E32636;
+}
+
+@layer base {
+  html {
+    background-color: #08090B;
+    color: #FFFFFF;
+    font-family: "Manrope", sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #08090B;
+    color: #FFFFFF;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-display {
+    font-family: "Oswald", sans-serif;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

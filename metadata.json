@@ -1,0 +1,6 @@
+{
+  "name": "IRON MAN FITNESS & GYM",
+  "description": "Official website for IRON MAN FITNESS & GYM in Manjakuppam, Cuddalore. HIIT, CrossFit, Strength Training, Personal Coaching, and Membership Enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

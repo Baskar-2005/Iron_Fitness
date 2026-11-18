@@ -1,0 +1,22 @@
+[
+  {
+    "id": "IM-B3C4F6",
+    "fullName": "Karthik Rajan",
+    "phone": "9500995577",
+    "age": 25,
+    "fitnessGoal": "Muscle Building",
+    "preferredProgram": "Strength Training",
+    "message": "Interested in evening strength batch.",
+    "submittedAt": "2026-11-18T14:04:49.359Z"
+  },
+  {
+    "id": "IM-9E5D57",
+    "fullName": "Karthik Rajan",
+    "phone": "9500995577",
+    "age": 25,
+    "fitnessGoal": "Muscle Building",
+    "preferredProgram": "Strength Training",
+    "message": "Morning batch enquiry",
+    "submittedAt": "2026-11-18T14:20:40.881Z"
+  }
+]
